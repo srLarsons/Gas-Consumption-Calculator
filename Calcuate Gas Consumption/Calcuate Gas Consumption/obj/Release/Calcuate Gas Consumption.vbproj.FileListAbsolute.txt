@@ -1,0 +1,12 @@
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\bin\Release\Calcuate Gas Consumption.exe.config
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\bin\Release\Calcuate Gas Consumption.exe
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\bin\Release\Calcuate Gas Consumption.pdb
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\bin\Release\Calcuate Gas Consumption.xml
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\obj\Release\Calcuate Gas Consumption.vbprojAssemblyReference.cache
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\obj\Release\Calcuate_Gas_Consumption.Form1.resources
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\obj\Release\Calcuate_Gas_Consumption.Resources.resources
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\obj\Release\Calcuate_Gas_Consumption.ucHome.resources
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\obj\Release\Calcuate Gas Consumption.vbproj.GenerateResource.cache
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\obj\Release\Calcuate Gas Consumption.exe
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\obj\Release\Calcuate Gas Consumption.xml
+C:\Users\ramsa\source\repos\Calcuate Gas Consumption\Calcuate Gas Consumption\obj\Release\Calcuate Gas Consumption.pdb
